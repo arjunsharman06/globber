@@ -25,7 +25,7 @@ A simple chatting application which allows users to chat with any users using th
 * Async and Await
 * React.
 * MongoDB.
-* Moongoose.
+* Mongoose.
 * Apollo Server.
 * GraphQL
 * graphql-ws.
