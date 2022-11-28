@@ -4,7 +4,7 @@ Globber
 
 # Description
 
-A simple chatting application which allows users to chat with any users using this application
+A single room chat application where a user can chat whith any random online users and gets real time notificatiion . 
 
 # Key Features
 
@@ -55,6 +55,3 @@ https://chatting-globber.herokuapp.com/
 # Author
 
 * Arjun Sharman
-* Tareque Moatar
-* TrevorBos
-* MyCodeSu
