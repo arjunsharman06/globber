@@ -4,7 +4,7 @@ A single room chat application where a user can chat with any random online user
 
 ## Project Links
 [Repo Link](https://github.com/arjunsharman06/globber) <br>
-[Heroku](https://chatting-globber.herokuapp.com/)
+[Demo](https://chatting-globber.herokuapp.com/)
 
 * Sample User 1 : <br/>
   username:ironman@ironman.com<br/>
@@ -18,7 +18,7 @@ A single room chat application where a user can chat with any random online user
 1. [Project Links](#project-links)
 1. [Key Features](#key-features)
 1. [Tech Stack](#tech-stack)
-1. [Installation](#Installation)
+1. [Installation](#installation)
 1. [Screenshots](#screenshots)
 1. [Contribution](#contribution)
 1. [Questions](#questions)
